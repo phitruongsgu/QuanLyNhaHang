@@ -1,1 +1,0 @@
-tôi xin chào bạn
