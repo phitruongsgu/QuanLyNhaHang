@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNH_APIs", "QLNH_APIs\QLNH_APIs.csproj", "{C2D78CC0-8544-4CE3-B778-989B5ED6ABB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D78CC0-8544-4CE3-B778-989B5ED6ABB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D78CC0-8544-4CE3-B778-989B5ED6ABB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D78CC0-8544-4CE3-B778-989B5ED6ABB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D78CC0-8544-4CE3-B778-989B5ED6ABB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D21EB9-4681-4571-AEA7-1F59996D9779}
+	EndGlobalSection
+EndGlobal
